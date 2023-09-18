@@ -61,9 +61,13 @@ Box Plot
 Conclusion of EDA Project:
 
 Numerical distribution using heatmap. 
+
 Bar plot between total number of passengers per month. In Apr, Jul most passengers book the hotel.
+
 Percentage stay of adults per month.
-We also saw the hotel was booked the most in 2016
+
+We also saw the hotel was booked the most in 2016.
+
 It has been concluded that trasient type used City hotel and resort hotel the most for stay
 PRT country has the highest no of bookings. 
 Less number of stays of passengers had more revenues.
