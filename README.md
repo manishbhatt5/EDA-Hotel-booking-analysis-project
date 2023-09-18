@@ -60,11 +60,9 @@ Box Plot
 
 Conclusion of EDA Project:
 
-Numerical distribution using heatmap. 
+First we saw, numerical distribution using heatmap. 
 
 Bar plot between total number of passengers per month. In Apr, Jul most passengers book the hotel.
-
-Percentage stay of adults per month.
 
 We also saw the hotel was booked the most in 2016.
 
