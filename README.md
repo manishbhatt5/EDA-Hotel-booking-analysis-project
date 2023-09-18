@@ -66,17 +66,28 @@ Bar plot between total number of passengers per month. In Apr, Jul most passenge
 
 We also saw the hotel was booked the most in 2016.
 
-It has been concluded that trasient type used City hotel and resort hotel the most for stay
+It has been concluded that trasient type used City hotel and resort hotel the most for stay.
+
 PRT country has the highest no of bookings. 
+
 Less number of stays of passengers had more revenues.
+
 TA/TO has the highest lead time and undfined has the lowest lead time.
+
 TA/TO has the highest waiting time as well.
+
 Around 60% bookings are for City hotel and 40% bookings are for Resort hotel.
+
 City hotel is mostly preferred for stay.
+
 Avg adr(revenue) rises from beginning of year upto middle of year and reaches peak at August and then lowers
 to the end of year. But hotels do make some good deals with high adr at end of year also.
+
 Also the avg adr tends to go up as month ends. Therefore charge more at the end of month.
-Moslty bookings are done by couples(although we are not sure that they are couple as data doesn't tell about that)
-It is clear from graph that their is a sudden surge in arrival num of couples and family in months of July and August. So better plans can be planned accordingly at that time for these type of customers
+
+Moslty bookings are done by couples(although we are not sure that they are couple as data doesn't tell about that).
+
+It is clear from graph that their is a sudden surge in arrival num of couples and family in months of July and August. So better plans can be planned accordingly at that time for these type of customers. 
+
 The most used means of distribution channel by the customers is TA/TO
 
