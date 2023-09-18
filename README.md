@@ -89,5 +89,5 @@ Moslty bookings are done by couples(although we are not sure that they are coupl
 
 It is clear from graph that their is a sudden surge in arrival num of couples and family in months of July and August. So better plans can be planned accordingly at that time for these type of customers. 
 
-The most used means of distribution channel by the customers is TA/TO
+The most used means of distribution channel by the customers is TA/TO.
 
